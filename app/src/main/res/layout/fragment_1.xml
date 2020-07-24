@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Frag1">
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:layout_margin="15dp" >
+
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Whole every miles as tiled at seven or. Wished he entire esteem mr oh by. Possible bed you pleasure civility boy elegance ham. He prevent request by if in pleased. Picture too and concern has was comfort. Ten difficult resembled eagerness nor. Same park bore on be.Warmth his law design say are person. Pronounce suspected in belonging conveying ye repulsive. "/>
+
+        <Button
+            android:id="@+id/btnColor1"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="Change Colour"/>
+
+    </LinearLayout>
+
+</FrameLayout>
